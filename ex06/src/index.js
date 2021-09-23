@@ -1,8 +1,8 @@
 // Create lion object here
-var school = {
-    "name": "Arena",
-    "location": "Sarajevo",
-    "established": 2020
+var lion = {
+    "name": "Simba",
+    "legs": 4,
+    "tails": 1
 };
 
 lion["roar"] = "roar-roar";
