@@ -15,13 +15,11 @@ function myFunction (propName, propValue) {
 
 lion[propName] = propValue;
 return lion;
+    
+   // Only change code above this line
 }
 
 
-
-
-
-// Only change code above this line
 
 
 myFunction("roar", "roar-roar");
